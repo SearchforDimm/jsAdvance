@@ -1,0 +1,20 @@
+[
+        {
+            "nama": "Dimas Rifqi",
+            "nis": "1234567",
+            "jurusan": "RPL",
+            "idDosenWali": 1
+        },
+        {
+            "nama": "Pierre Rifqi",
+            "nis": "1234567",
+            "jurusan": "RPL",
+            "idDosenWali": 2
+        },
+        {
+            "nama": "Juan Rifqi",
+            "nis": "1234567",
+            "jurusan": "RPL",
+            "idDosenWali": 3
+        }
+]
